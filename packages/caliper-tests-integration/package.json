@@ -36,8 +36,8 @@
         "@hyperledger/caliper-ethereum": "0.4.3-unstable",
         "@hyperledger/caliper-fabric": "0.4.3-unstable",
         "@hyperledger/caliper-fisco-bcos": "0.4.3-unstable",
-        "yeoman-generator": "5.0.0",
-        "yosay": "^2.0.1"
+        "yeoman-generator": "5.0.1",
+        "yosay": "^3.0.0"
     },
     "license-check-and-add-config": {
         "folder": ".",
