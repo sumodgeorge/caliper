@@ -29,7 +29,7 @@
         "isarray": "^2.0.4",
         "ora": "^1.2.0",
         "request-promise": "^4.2.1",
-        "solc": "^0.4.25",
+        "solc": "^0.8.12",
         "uuid": "^3.3.2"
     },
     "devDependencies": {
