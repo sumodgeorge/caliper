@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@hyperledger/caliper-core": "0.4.3-unstable",
-        "crypto-js": "^3.1.9-1",
+        "crypto-js": "^4.2.0",
         "ethereumjs-util": "6.1.0",
         "fs-extra": "8.1.0",
         "isarray": "^2.0.4",
