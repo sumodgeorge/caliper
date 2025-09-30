@@ -25,7 +25,7 @@
         "color-scheme": "^1.0.1",
         "colors": "1.4.0",
         "compare-versions": "^3.4.0",
-        "dockerode": "3.3.1",
+        "dockerode": "4.0.5",
         "express": "4.20.0",
         "js-yaml": "^3.13.1",
         "logform": "^2.1.2",
